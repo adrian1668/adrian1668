@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/adrian1668/vulnerability-management-program)**
-- **[STIG Implementation(PowerShell and BASH)](https://github.com/adrian1668/programmatic-vulnerability-remediations)**
+- **[STIG Implementations(PowerShell and BASH)](https://github.com/adrian1668/STIG-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
